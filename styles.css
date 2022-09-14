@@ -71,3 +71,9 @@ body {
   width: 150px;
   height: 100px;
 }
+.itemtext{
+  color: #453a94;
+}
+.itemactive{
+  display: none;
+}
